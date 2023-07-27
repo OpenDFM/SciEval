@@ -1,8 +1,4 @@
-<center><font size=20><strong>BAI-<font color="#80F6FF">Sci</font>Eval</strong></font></center>
-
-<p align="center">
-   <font size="7">BAI-SciEval</font>
-</p>
+<p align="center"> <img src="assets/title.png" style="width: 85%;" id="title-icon">       </p>
 
 <p align="center">
    🌐 <a href="https://bai-scieval.duiopen.com/#/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/OpenDFM/BAI-SciEval" target="_blank">Hugging Face</a>

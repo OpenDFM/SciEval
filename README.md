@@ -1,7 +1,7 @@
 <center><font size=20><strong>BAI-<font color="#80F6FF">Sci</font>Eval</strong></font></center>
 
 <p align="center">
-   <font size="50">BAI-SciEval</font>
+   <font size="7">BAI-SciEval</font>
 </p>
 
 <p align="center">

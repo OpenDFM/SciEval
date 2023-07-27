@@ -1,4 +1,4 @@
-<p align="center"> <img src="assets/title.png" style="width: 85%;" id="title-icon">       </p>
+<p align="center"> <img src="assets/title.png" style="width: 50%;" id="title-icon">       </p>
 
 <p align="center">
    🌐 <a href="https://bai-scieval.duiopen.com/#/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/OpenDFM/BAI-SciEval" target="_blank">Hugging Face</a>

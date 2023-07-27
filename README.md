@@ -1,3 +1,10 @@
+<center><font size=20><strong>BAI-<font color="#80F6FF">Sci</font>Eval</strong></font></center>
+<center><font size=5> A Multi-Type Multi-Discipline Multi-Knowledge Evaluation Benchmark for Scientific Large Language Models </font></center>
+<p align="center">
+   🌐 <a href="https://bai-scieval.duiopen.com/#/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/OpenDFM/BAI-SciEval" target="_blank">Hugging Face</a>
+</p>
+
+
 ## Description
 BAI-SCIEVAL is an evaluation benchmark for large language models in the scientific domain. It consists of approximately 18,000 objective evaluation questions and few subjective questions, covering the fundamental scientific fields of chemistry, physics, and biology. This benchmark assesses the understanding and generation capabilities of large language models in scientific content from four aspects: basic knowledge, knowledge application, scientific calculation, and research ability.
 

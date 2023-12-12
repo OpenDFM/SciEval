@@ -6,15 +6,15 @@
 
 
 ## Description
-BAI-SCIEVAL is an evaluation benchmark for large language models in the scientific domain. It consists of approximately 18,000 objective evaluation questions and few subjective questions, covering the fundamental scientific fields of chemistry, physics, and biology. This benchmark assesses the understanding and generation capabilities of large language models in scientific content from four aspects: basic knowledge, knowledge application, scientific calculation, and research ability.
+SciEval is an evaluation benchmark for large language models in the scientific domain. It consists of approximately 18,000 objective evaluation questions and few subjective questions, covering the fundamental scientific fields of chemistry, physics, and biology. This benchmark assesses the understanding and generation capabilities of large language models in scientific content from four aspects: basic knowledge, knowledge application, scientific calculation, and research ability.
 
 ![](assets/system.png)
 
 ## Files Description
 
-* *bai-scieval-dev.json* is the dev set, containing 5 samples for each $task\ name$, each $ability$ and each $category$, which is specially used for few shot.
-* *bai-scieval-valid.json* is the valid set, containing the answer for each question.
-* *bai-scieval-test.json* is the test set.
+* *scieval-dev.json* is the dev set, containing 5 samples for each $task\ name$, each $ability$ and each $category$, which is specially used for few shot.
+* *scieval-valid.json* is the valid set, containing the answer for each question.
+* *scieval-test.json* is the test set.
 * *make_few_shot.py* is the code for generating the few shot data, you can modify it as you need.
 * *eval.py* is the evaluation code for the valid set, which is the same as the one we used for the test set. Note the the prediction should follow the format:
 ```

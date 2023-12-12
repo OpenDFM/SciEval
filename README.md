@@ -25,3 +25,16 @@ SciEval is an evaluation benchmark for large language models in the scientific d
 ```
 * *dynamic_chem.json* and *dynamic_phy.json* is the dynamic data, which is a re-generated version and is different from the data we used in the leaderboard. We will update it regularly.
 * *eval_dynamic.py* is the evalution code for the dynamic data. To use this script, you need to add *"pred"* key directly to the original dynamic data.
+
+## Reference
+
+If you use any source codes or datasets included in this repository in your work, please cite the corresponding papers. The bibtex are listed below:
+
+```text
+@article{sun2023scieval,
+  title={SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research},
+  author={Sun, Liangtai and Han, Yang and Zhao, Zihan and Ma, Da and Shen, Zhennan and Chen, Baocai and Chen, Lu and Yu, Kai},
+  journal={arXiv preprint arXiv:2308.13149},
+  year={2023}
+}
+```

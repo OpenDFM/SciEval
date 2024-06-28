@@ -22,7 +22,7 @@ def main():
     """
 
 
-    with open("bai-scieval-valid.json", 'r') as reader:
+    with open("scieval-valid.json", 'r') as reader:
         label_data = json.load(reader)
 
     label_data = dict([(label["id"], label) for label in label_data] )

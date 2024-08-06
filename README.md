@@ -15,6 +15,7 @@ SciEval is an evaluation benchmark for large language models in the scientific d
 * *scieval-dev.json* is the dev set, containing 5 samples for each $task\ name$, each $ability$ and each $category$, which is specially used for few shot.
 * *scieval-valid.json* is the valid set, containing the answer for each question.
 * *scieval-test.json* is the test set.
+* *scieval-test-local.json* is the test set with ground-truth answers, you can use it for local evaluation.
 * *make_few_shot.py* is the code for generating the few shot data, you can modify it as you need.
 * *eval.py* is the evaluation code for the valid set, which is the same as the one we used for the test set. Note the the prediction should follow the format:
 ```
